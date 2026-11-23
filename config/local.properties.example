@@ -1,0 +1,6 @@
+# Copiar como config/local.properties y completar fuera de Git.
+maco.prevalidar.url=http://maco.diraya.des/wsCentralizada/wsValidacion.asmx
+maco.jwt.signing-jwk=
+maco.jwt.encryption-jwk=
+maco.jwt.ttl-seconds=300
+
